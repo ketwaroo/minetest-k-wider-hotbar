@@ -1,0 +1,11 @@
+{
+    "type": "MOD",
+    "title": "K Wider Hotbar",
+    "short_description": "Increases the number of hotbar slots by displaying exta inventory rows",
+    "dev_state": "ACTIVELY_DEVELOPED",
+    "tags": ["hud"],
+    "license": "GPL-3.0-or-later",
+    "media_license": "GPL-3.0-or-later",
+    "issue_tracker": "https://github.com/ketwaroo/minetest-k-wider-hotbar/issues",
+    "repo": "https://github.com/ketwaroo/minetest-k-wider-hotbar"
+}
